@@ -20,20 +20,28 @@ Your personal information is used for:
 The competition prize structure is as follows:
 - Base prize: 200 zł (minimum guaranteed prize)
 - Maximum prize: 500 zł (requires minimum 15 participants)
-- Prize scaling:
-  - 5-9 participants: 200 zł
-  - 10-14 participants: 300 zł
-  - 15+ participants: 500 zł
-- Prize amount will be finalized after the first week of registration based on the number of participants
+- Prize scaling and distribution:
+    - 5-7 participants: 200 zł (awarded to 1st place)
+    - 8-9 participants: 200 zł total prize pool.
+    - 10-14 participants: 300 zł total prize pool.
+    - 15+ participants: 500 zł total prize pool.
+- If there are fewer than 8 participants, the total prize amount, as determined by the number of participants, will be awarded to the 1st place winner only.
+- If there are 8 or more participants, the total prize amount, as determined by the number of participants, will be distributed among the top three places as follows:
+    - **1st Place:** 50% of the determined prize pool
+    - **2nd Place:** 30% of the determined prize pool
+    - **3rd Place:** 20% of the determined prize pool
+- The final total prize amount will be confirmed after the first week of registration, based on the total number of registered participants.
 
 ## 5. Data Storage and Security
-- All data is stored on our school&apos;s secure systems
-- We use open-source software for competition management
-- No third-party services are involved in data processing
+- All data is stored on our school's secure systems.
+- We use open-source software for competition management.
+- No third-party services are involved in data processing.
+- Souls are stored in a secure digital vault for meme purposes.
 
 ## 6. Data Retention
-- All personal data and competition submissions will be deleted after the competition ends
-- No data will be retained beyond the competition period
+- All personal data and competition submissions will be deleted after the competition ends.
+- No data will be retained beyond the competition period.
+- Souls may be retained indefinitely for ongoing meme value.
 
 ## 7. Your Rights
 As a participant, you have the right to:
@@ -41,9 +49,13 @@ As a participant, you have the right to:
 - Request correction of your information
 - Request deletion of your information
 - Withdraw from the competition at any time
+- Attempt to reclaim your soul
 
 ## 8. Contact Information
 For any questions regarding this privacy policy or your personal data, please contact the competition organizers at your school.
 
 ## 9. Changes to This Policy
-This privacy policy may be updated to reflect changes in the competition structure or requirements. Participants will be notified of any significant changes. 
+This privacy policy may be updated to reflect changes in the competition structure or requirements. Participants will be notified of any significant changes.
+
+## 10. Soul Collection Disclaimer
+By participating in this competition, you acknowledge that your soul may be collected for meme purposes. This is a binding agreement and souls cannot be returned upon request. We are not responsible for any existential crises that may result from soul collection.
