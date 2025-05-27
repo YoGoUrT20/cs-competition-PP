@@ -22,8 +22,8 @@ The competition prize structure is as follows:
 - Maximum prize: 500 zł (requires minimum 15 participants)
 - Prize scaling and distribution:
     - 5-7 participants: 200 zł (awarded to 1st place)
-    - 8-9 participants: 200 zł total prize pool.
-    - 10-14 participants: 300 zł total prize pool.
+    - 8-9 participants: 300 zł total prize pool.
+    - 10-14 participants: 400 zł total prize pool.
     - 15+ participants: 500 zł total prize pool.
 - If there are fewer than 8 participants, the total prize amount, as determined by the number of participants, will be awarded to the 1st place winner only.
 - If there are 8 or more participants, the total prize amount, as determined by the number of participants, will be distributed among the top three places as follows:
